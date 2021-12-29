@@ -1,0 +1,12 @@
+Package: app.debutility.alarmc
+Version: 1.32
+Section: Clocks
+Maintainer: DebUtility
+Architecture: iphoneos-arm
+Filename: ./debs/alarmclock.deb
+Size: 758
+MD5sum: 99c6bfb2417abe2dbea04aafe741afca
+Description: Alarm Clock 1.32
+Name: Alarm Clock
+Author: Impala Studios
+
